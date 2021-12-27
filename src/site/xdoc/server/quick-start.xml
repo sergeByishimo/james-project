@@ -123,7 +123,7 @@ Step 5: Start
 $ cd bin
 $ ./james start 
   * !! you need libc6 installed on Linux !! - sudo apt-get install libc6-i386 libc6-dev-i386 on ubuntu
-  * You can see log result in the log/james-server.log file.
+  * You can see log result in the log/wrapper.log file.
 
 Step 6: Create Domains and Users
 ################################
